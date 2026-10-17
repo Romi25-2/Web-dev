@@ -1,0 +1,24 @@
+img{
+    border: 15px solid lightblue;
+    border-radius: 20px;
+    margin: auto;
+    display: block;
+}
+p{font-size: medium;
+    font-family:'Times New Roman';
+    color: rgb(83, 146, 218);
+    text-align: justify;
+    text-align: center;
+}
+h1{ font-size: large;
+    color: rgb(47, 7, 51);
+    font-family: Arial;
+    text-align: center;   
+}
+h3{ text-align: center;
+    color:black ;
+}
+h2{ background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
